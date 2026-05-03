@@ -6,7 +6,7 @@ A personal portfolio website showcasing my background, skills, and projects as a
 
 ## About
 
-Hi, I'm Boni - a graduate student in IT Management passionate about all things tech. This portfolio covers who I am, what I work with, and what I've been building. It includes sections for my skills, tools, projects, blog posts, and a contact form.
+Hi, I'm Boni, a graduate student in IT Management passionate about all things tech. This portfolio covers who I am, what I work with, and what I've been building. It includes sections for my skills, tools, projects, blog posts, and a contact form.
 
 Feel free to reach out: [milinganyoboni@gmail.com](mailto:milinganyoboni@gmail.com)
 
